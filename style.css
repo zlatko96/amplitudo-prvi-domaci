@@ -1,0 +1,43 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+thead {
+    width: 100%;
+}
+tbody {
+    width: 100%;
+}
+th {
+    text-align: center;
+    border: 1px solid #7c7c7c;
+}
+td {
+    text-align: center;
+}
+ol {
+
+    text-align:start;
+}
+#title {
+    font-size: 28px;
+    color: grey;
+    text-align: center;
+    margin-bottom: 0px;
+}
+#tableSection {
+    margin: 5% 10% 0% 10%;
+}
+.cityImage {
+    width: 190px;
+    height: 100px;
+}
+.even {
+    background-color: #E9ECEF;
+}
+.imageCol {
+    width: 190px;
+}
+a {
+    text-decoration: none;
+}
